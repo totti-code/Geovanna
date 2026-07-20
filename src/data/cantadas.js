@@ -1,9 +1,9 @@
 export const cantadas = [
+  'Dizem que toda loucura precisa de companhia. Aceita a vaga?',
   'Você trouxe o caos ou o caos trouxe você? De qualquer jeito, ficou bem mais divertido.',
   'Eu tinha um plano perfeitamente normal… aí você apareceu sorrindo.',
   'Você tem cara de problema. Por sorte, eu nunca gostei muito de soluções.',
   'Se isso aqui fosse um assalto, você já teria roubado toda a minha atenção.',
-  'Dizem que toda loucura precisa de companhia. Aceita a vaga?',
   'Você não precisa de cartas na manga. Seu sorriso já é golpe baixo suficiente.',
   'Meu dia estava preto e branco até você aparecer com esse caos colorido.',
   'Não sei se somos uma boa ideia. Mas certamente seríamos uma história ótima.',
