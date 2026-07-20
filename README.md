@@ -39,6 +39,12 @@ npm run preview
 
 O projeto usa React, Vite, Tailwind CSS, Framer Motion, React Icons e canvas-confetti.
 
+## Site publicado
+
+O deploy é realizado automaticamente pelo GitHub Actions a cada atualização da branch `main`:
+
+https://totti-code.github.io/Geovanna/
+
 ## Imagens de fundo
 
 As imagens em `public/images` foram fornecidas pelo responsável pelo projeto e recebem tratamento visual de máscara, cor e transparência pelo CSS.
