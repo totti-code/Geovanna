@@ -1,0 +1,24 @@
+{
+  "name": "arquivo-geovanna",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@vitejs/plugin-react": "latest",
+    "autoprefixer": "latest",
+    "canvas-confetti": "latest",
+    "framer-motion": "latest",
+    "postcss": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "react-icons": "latest",
+    "tailwindcss": "^3.4.17",
+    "vite": "latest"
+  },
+  "devDependencies": {}
+}
